@@ -10,7 +10,7 @@ import com.example.training.service.TrainingServiceImpl;
 
 /**
  * Training用プロジェクト
- * Gitリモートリポジトリへpush
+ * Gitリモートリポジトリへpush成功
  */
 public class TrainingApplication {
     public static void main(String[] args) {
